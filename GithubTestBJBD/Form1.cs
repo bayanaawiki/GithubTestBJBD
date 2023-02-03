@@ -16,5 +16,6 @@ namespace GithubTestBJBD
         {
             InitializeComponent();
         }
+        int i=3;
     }
 }
