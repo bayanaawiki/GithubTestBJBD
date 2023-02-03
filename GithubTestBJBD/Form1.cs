@@ -18,5 +18,7 @@ namespace GithubTestBJBD
         }
         int i=3;
         int hello=44;
+
+        string strh = "hello";
     }
 }
