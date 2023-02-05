@@ -20,5 +20,6 @@ namespace GithubTestBJBD
         int hello=44;
 
         string strh = "hello  HI !";
+        string strDate = "2023.02.06";
     }
 }
