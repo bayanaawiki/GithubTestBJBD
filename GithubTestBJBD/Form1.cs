@@ -21,6 +21,6 @@ namespace GithubTestBJBD
 
         string strh = "hello  HI !";
         string strDate = "2023.02.06 kkk";
-        string str = "";
+        string str = "a";
     }
 }
